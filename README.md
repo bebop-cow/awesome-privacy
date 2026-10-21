@@ -1251,7 +1251,8 @@ This section is dedicated to some tools that may help users analyze the privacy 
 - [MAT2](https://github.com/jvoisin/mat2) - Removes metadata from images, documents, audio and other files. Command line tool with file manager integrations.
 - [Metadata Cleaner](https://gitlab.com/rmnvgr/metadata-cleaner) - Simple desktop app to view and remove file metadata, built on MAT2.
 - [Mobile Verification Toolkit](https://github.com/mvt-project/mvt) - Forensic tool from Amnesty International that checks Android and iOS devices for traces of spyware such as Pegasus.
-
+- [Fauve Houdini](https://bebop-cow.github.io/fauve/web/houdini.html) - Browser-based tool that writes data broker deletion and opt-out requests locally; you send them, nothing is stored.
+  
 ### Android
 
 - [εxodus](https://reports.exodus-privacy.eu.org/en/) - The privacy audit platform for Android applications. Find how many trackers your apps have.
